@@ -12,6 +12,7 @@ k_repeat = 30;
 opts.lambda = 1;
 
 gamma_list = [0.001, 0.01, 0.1, 1, 10, 100];
+% for Laplace, we fix gamma = 0.001
 
 for dataset_idx = 2: dataset_num
     fprintf('Running on the following dataset: %s \n',cell2mat(dataset_list(dataset_idx)));
