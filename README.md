@@ -1,4 +1,4 @@
-# CMRL
+# PCA-NCRM
 Source codes of the work "Non-decreasing Concave Regularized Minimization for Principal Component Analysis" published in IEEE SPL 2025.
 
 If you find this repository useful in your research, please cite our work as follows, thanks.
